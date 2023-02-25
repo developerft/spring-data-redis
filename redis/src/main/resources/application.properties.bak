@@ -1,4 +1,4 @@
-application-description=Spring Data Redis
+application-description=Folksdev Bank Application
 application-version=1.0
 spring.main.allow-bean-definition-overriding=true
 
